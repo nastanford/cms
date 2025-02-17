@@ -1,0 +1,33 @@
+   # EditorConfig is awesome: https://EditorConfig.org
+  
+  # top-most EditorConfig file
+  root = true
+  
+  # All files
+  [*]
+  end_of_line = lf
+  insert_final_newline = true
+  charset = utf-8
+  trim_trailing_whitespace = true
+  indent_style = space
+  indent_size = 2
+  
+  # ColdFusion files
+  [*.{cfm,cfc}]
+  indent_style = space
+  indent_size = 2
+  
+  # HTML files
+  [*.{html,htm}]
+  indent_style = space
+  indent_size = 2
+  
+  # CSS files
+  [*.css]
+  indent_style = space
+  indent_size = 2
+  
+  # JavaScript files
+  [*.js]
+  indent_style = space
+  indent_size = 2
