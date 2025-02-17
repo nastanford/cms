@@ -1,2 +1,2 @@
 # ColdFusion CMS
-# Just a very basic version for beginners.
+> Just a very basic version for beginners.
